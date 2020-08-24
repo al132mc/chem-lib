@@ -1,3 +1,13 @@
+1.14.4-19
+==
+-Fixed possibly corrupted images in v18
+-Changed lamp step sound to glass
+
+1.14.4-18
+===
+-New Textures for everything
+-New french translation
+
 1.14.4-14
 ===
 -Updated to Forge 28.1.90
